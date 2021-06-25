@@ -4,4 +4,11 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\Entities\" />
+    <Folder Include="Data\Repositories\" />
+    <Folder Include="Business\" />
+    <Folder Include="Domain\Models\Response\" />
+  </ItemGroup>
+
 </Project>
