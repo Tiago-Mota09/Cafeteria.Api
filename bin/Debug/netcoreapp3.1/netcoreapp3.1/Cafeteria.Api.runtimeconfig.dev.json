@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vanderson.mota\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vanderson.mota\\.nuget\\packages"
+    ]
+  }
+}

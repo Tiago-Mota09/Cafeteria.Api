@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cafeteria.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Cafeteria.Api.Controllers.CafeController.Post(Cafeteria.Api.Domain.Models.Request.CafeRequest)">
+            <summary>
+            Cadastra Cafés
+            </summary>
+            <param name="cafeReq"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

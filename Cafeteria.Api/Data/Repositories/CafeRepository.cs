@@ -1,7 +1,6 @@
 ﻿using Cafeteria.Api.Data.Entities;
 using Dapper;
 using Microsoft.Extensions.Configuration;
-using System;
 using System.Collections.Generic;
 
 namespace Cafeteria.Api.Data.Repositories
@@ -41,6 +40,17 @@ namespace Cafeteria.Api.Data.Repositories
                 cafe.Tamanho,
                 cafe.Preco
             });
+        }
+        public int GetIdByNome(string nome)
+        {
+            using var db = Connection;
+
+            var query = @"select idCafe 
+	                        from cafe
+                        WHERE nome = @Nome
+	                        AND idCafe != 0";
+
+            return db.ExecuteScalar<int>(query, new { nome });
         }
     }
 }
