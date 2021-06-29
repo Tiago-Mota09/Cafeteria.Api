@@ -11,6 +11,7 @@
   "profiles": {
     "IIS Express": {
       "commandName": "IISExpress",
+      "workingDirectory": "swagger/index.html",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",
       "environmentVariables": {
@@ -22,8 +23,12 @@
       "launchBrowser": true,
       "launchUrl": "swagger/index.html",
       "environmentVariables": {
+<<<<<<< HEAD
         "ASPNETCORE_ENVIRONMENT": "Development",
         "Chave": "Valor"
+=======
+        "ASPNETCORE_ENVIRONMENT": "Development"
+>>>>>>> origin/isabela-doces
       },
       "applicationUrl": "https://localhost:5001;http://localhost:5000"
     }
