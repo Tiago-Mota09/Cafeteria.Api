@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cafeteria.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Cafeteria.Api.Controllers.CafeController.Post(Cafeteria.Api.Domain.Models.Request.CafeRequest)">
+            <summary>
+            Cadastra Cafés
+            </summary>
+            <param name="cafeReq"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Cafeteria.Api.Controllers.CafeController.Put(Cafeteria.Api.Domain.Models.Request.CafeUpdateRequest)">
+            <summary>
+            Atualiza Cafés
+            </summary>
+            <param name="cafeUpdateRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Cafeteria.Api.Controllers.CafeController.GetById(System.Int32)">
+            <summary>
+            Buscar Café po ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Cafeteria.Api.Controllers.CafeController.GetAll">
+            <summary>
+            Buscar todos os Cafés
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Cafeteria.Api.Controllers.CafeController.Delete(System.Int32)">
+            <summary>
+            Apagar Cafés
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
