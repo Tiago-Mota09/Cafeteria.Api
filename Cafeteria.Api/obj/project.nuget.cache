@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V03YvOKjTcXcmXqsEzr0d1y1ea3dXCh/M62kPzn8m/dHSbRIK9rfsZ3vSufp7ujQbdjl722dwIsYnxciVU4h6g==",
+  "dgSpecHash": "M2gnWIlogwQuYXE6t6QxakUaPtMf0j1W/8uKVLxFQrWy1xAd7hTdco+hq6QR6wPgRnECMFyFZ8L2rHgRCc/0cA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api.csproj",
+  "projectFilePath": "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vanderson.mota\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\vanderson.mota\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
@@ -60,12 +60,5 @@
     "C:\\Users\\vanderson.mota\\.nuget\\packages\\system.security.principal.windows\\4.6.0\\system.security.principal.windows.4.6.0.nupkg.sha512",
     "C:\\Users\\vanderson.mota\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria\\Cafeteria.Api\\Cafeteria.Api\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

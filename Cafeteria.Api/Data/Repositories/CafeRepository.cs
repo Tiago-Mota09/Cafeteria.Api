@@ -18,21 +18,21 @@ namespace Cafeteria.Api.Data.Repositories
             //metodo de insert a seguir:  //@ para poder pular linhas e reconhecer identação do banco //status não precisa, pois já vem com 1 como padrão
             //1ª parte INSERT quais colunas será inserido valores
             //2ª parte VALUES referenciando com a classe entity(Escrito igual no entity)
-            var query = @"INSERT INTO CAFE           
-                            (idCafe
-                             nome,
+            var query = @"INSERT INTO cafe           
+                            (nome,
                              tipo,
                              ingredientes,
                              tamanho,
                              preco)
                      values( @Nome, 
-                             @tipo,
-                             @ingredientes,
-                             @tamanho)
+                             @Tipo,
+                             @Ingredientes,
+                             @Tamanho,
+                             @Preco)
                              RETURNING idCafe;";  //
 
             return db.ExecuteScalar<int>(query, new //ExecuteScalar retornar vários tipos de dados //new = instanciando algo novo
-            //retorno para executar a query
+                                                    //retorno para executar a query
             {
                 cafe.Nome,
                 cafe.Tipo,

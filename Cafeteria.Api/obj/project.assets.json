@@ -1963,11 +1963,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api.csproj",
+      "projectUniqueName": "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api.csproj",
       "projectName": "Cafeteria.Api",
-      "projectPath": "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api.csproj",
+      "projectPath": "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api.csproj",
       "packagesPath": "C:\\Users\\vanderson.mota\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria\\Cafeteria.Api\\Cafeteria.Api\\obj\\",
+      "outputPath": "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vanderson.mota\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2051,13 +2051,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria\\Cafeteria.Api\\Cafeteria.Api\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

@@ -11,8 +11,8 @@
 
 
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-		<OutputPath>C:\Users\vanderson.mota\Desktop\Tiago\Projetos\Cafeteria\Cafeteria.Api\bin\Debug\netcoreapp3.1</OutputPath>
-		<DocumentationFile>C:\Users\vanderson.mota\Documents\ProjetosVisualStudio\Projeto2\Escola.API\Escola.API\bin\Debug\netcoreapp3.1\Escola.API.xml</DocumentationFile>
+		<OutputPath>C:\Users\vanderson.mota\Desktop\Tiago\Projetos\Cafeteria.Api\Cafeteria.Api\bin\Debug\netcoreapp3.1</OutputPath>
+		<DocumentationFile>C:\Users\vanderson.mota\Desktop\Tiago\Projetos\Cafeteria.Api\Cafeteria.Api\bin\Debug\netcoreapp3.1\Escola.API.xml</DocumentationFile>
 	</PropertyGroup>
 	
   <ItemGroup>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api.csproj": {}
+    "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api.csproj": {
+    "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api.csproj",
+        "projectUniqueName": "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api.csproj",
         "projectName": "Cafeteria.Api",
-        "projectPath": "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api.csproj",
+        "projectPath": "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api.csproj",
         "packagesPath": "C:\\Users\\vanderson.mota\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria\\Cafeteria.Api\\Cafeteria.Api\\obj\\",
+        "outputPath": "C:\\Users\\vanderson.mota\\Desktop\\Tiago\\Projetos\\Cafeteria.Api\\Cafeteria.Api\\Cafeteria.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vanderson.mota\\AppData\\Roaming\\NuGet\\NuGet.Config",
